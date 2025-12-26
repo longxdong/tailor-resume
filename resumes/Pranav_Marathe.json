@@ -1,0 +1,39 @@
+{
+  "name": "Pranav Marathe",
+  "title": "Senior Software Engineer",
+  "email": "pranav.marathe077@outlook.com",
+  "location": "San Jose, CA",
+  "linkedin": "",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Engineering",
+      "school": "Georgia Institute of Technology",
+      "start_year": "2014",
+      "end_year": "2018",
+      "grade": "3.94"
+    }
+  ],
+  "experience": [
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer",
+      "start_date": "Feb 2022",
+      "end_date": "Present",
+      "location": ""
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Software Engineer",
+      "start_date": "Feb 2018",
+      "end_date": "Feb 2022",
+      "location": ""
+    },
+    {
+      "company": "Wheego Technologies, Inc.",
+      "title": "Software Engineer Intern",
+      "start_date": "Jun 2017",
+      "end_date": "Aug 2017",
+      "location": ""
+    }
+  ]
+}

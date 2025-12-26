@@ -1,0 +1,38 @@
+{
+  "name": "Alok Mathur",
+  "email": "alok.mathur8080@outlook.com",
+  "title": "Senior Software Engineer",
+  "location": "Irvine, CA",
+  "linkedin": "",
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "school": "Priyadashini College of Computer Sciences",
+      "start_year": "1994",
+      "end_year": "1998"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Lantronix",
+      "title": "Senior Software Engineer",
+      "start_date": "Dec 2010",
+      "end_date": "Present",
+      "location": ""
+    },
+    {
+      "company": "Toshiba America Business Solutions",
+      "title": "Senior Software Engineer",
+      "start_date": "Jul 2000",
+      "end_date": "Dec 2010",
+      "location": ""
+    },
+    {
+      "company": "Newgen",
+      "title": "Software Engineer",
+      "start_date": "Jan 1998",
+      "end_date": "Jul 2000",
+      "location": ""
+    }
+  ]
+}

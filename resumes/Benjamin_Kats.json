@@ -1,0 +1,44 @@
+{
+  "name": "Benjamin Kats",
+  "email": "benjamin.kats.work@outlook.com",
+  "phone": "",
+  "location": "Brooklyn, NY",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "American Express",
+      "location": "",
+      "start_date": "Apr 2022",
+      "end_date": "Present"
+    },
+    {
+      "company": "JPMorgan Chase & Co.",
+      "location": "",
+      "start_date": "Aug 2020",
+      "end_date": "Apr 2022"
+    },
+    {
+      "company": "Cognizant",
+      "location": "",
+      "start_date": "Jan 2020",
+      "end_date": "Aug 2020"
+    },
+    {
+      "company": "General Assembly",
+      "location": "",
+      "start_date": "Sep 2019",
+      "end_date": "Dec 2019"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer Science & Film Production",
+      "school": "Macaulay Honors College at The City University of New York",
+      "start_year": "2015",
+      "end_year": "2019"
+    }
+  ]
+}

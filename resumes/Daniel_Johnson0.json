@@ -1,0 +1,64 @@
+{
+  "name": "Daniel Johnson",
+  "email": "daniel.johnson.dev@outlook.com",
+  "phone": "",
+  "location": "Los Angeles, CA",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "PROTEGRITY",
+      "title": "Senior Software Engineer",
+      "location": "",
+      "start_date": "Feb 2023",
+      "end_date": "Present"
+    },
+    {
+      "company": " SIEMENS/ENLIGHTED",
+      "title": "Software Engineer",
+      "location": "",
+      "start_date": "Mar 2022",
+      "end_date": "Jan 2023"
+    },
+    {
+      "company": "INFINITY SYSTEMS ENGINEERING (SPACE FORCE) ",
+      "location": "",
+      "start_date": "May 2021",
+      "end_date": "Mar 2022"
+    },
+    {
+      "company": "AERODYNE INDUSTRIES (MISSILE DEFENSE AGENCY)",
+      "location": "",
+      "start_date": "Jul 2019",
+      "end_date": "May 2021"
+    },
+    {
+      "company": "NATIONAL BOARD OF MEDICAL EXAMINERS",
+      "location": "",
+      "start_date": "Apr 2018",
+      "end_date": "Sep 2018"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "school": "Georgia Institute of Technology",
+      "start_year": "Sep 2020",
+      "end_year": "Sep 2021"
+    },
+    {
+      "degree": "Computer Engineering",
+      "school": "Drexel University",
+      "start_year": "Sep 2014",
+      "end_year": "Jun 2019"
+    },
+    {
+      "degree": "Study abroad - Bachelors of Science in Computer Engineering - Minor in Electrical ",
+      "school": "Shanghai Jiao Tong University",
+      "start_year": "Jul 2017",
+      "end_year": "Jan 2018"
+    }
+  ]
+}

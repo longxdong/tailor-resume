@@ -1,0 +1,46 @@
+{
+  "name": "Eamon Caton",
+  "email": "eamon.caton@outlook.com",
+  "phone": "",
+  "location": "Seattle, WA",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "Zapier",
+      "location": "",
+      "start_date": "Aug 2021",
+      "end_date": "Present"
+    },
+    {
+      "company": "eBay",
+      "location": "",
+      "start_date": "Jul 2019",
+      "end_date": "Aug 2021"
+    },
+    {
+      "company": "Taco Bell",
+      "title": "Software Engineer Intern",
+      "location": "",
+      "start_date": "May 2018",
+      "end_date": "Jun 2019"
+    },
+    {
+      "company": "Rohde & Schwarz",
+      "title": "Software Engineer Intern",
+      "location": "",
+      "start_date": "Jan 2018",
+      "end_date": "May 2018"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "University of California, Irvine",
+      "start_year": "2017",
+      "end_year": "2019"
+    }
+  ]
+}

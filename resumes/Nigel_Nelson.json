@@ -1,0 +1,50 @@
+{
+  "name": "Nigel Nelson",
+  "title": "Machine Learning Engineer",
+  "email": "nigel.nelson12@outlook.com",
+  "location": "Santa Clara, CA",
+  "linkedin": "https://www.linkedin.com/in/nigel-nelson-nvidia/",
+  "certifications": [
+    "Fundamentals of Deep Learning for Computer Vision - NVIDIA",
+    "Biomedical Research and Good Clinical Practice - CITI Program"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "school": "Milwaukee School of Engineering",
+      "start_year": "Sep 2019",
+      "end_year": "May 2023",
+      "grade": "4.0 GPA"
+    }
+  ],
+  "experience": [
+    {
+      "company": "NVIDIA",
+      "title": "Machine Learning Engineer",
+      "start_date": "Jun 2023",
+      "end_date": "Present",
+      "location": ""
+    },
+    {
+      "company": "Milwaukee School of Engineering",
+      "title": "Data Science Research Assistant",
+      "start_date": "May 2022",
+      "end_date": "May 2023",
+      "location": ""
+    },
+    {
+      "company": "Blue Cross and Blue Shield of Illnois, Montana, New Mexico, Oklahoma, and Texas",
+      "title": "Data Science Engineering Sr. Intern",
+      "start_date": "Jun 2022",
+      "end_date": "Aug 2022",
+      "location": ""
+    },
+    {
+      "company": "Cognex Corporation",
+      "title": "Software Engineer Intern",
+      "start_date": "Apr 2021",
+      "end_date": "Jun 2022",
+      "location": ""
+    }
+  ]
+}

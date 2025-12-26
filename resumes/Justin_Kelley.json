@@ -1,0 +1,56 @@
+{
+  "name": "Justin Kelley",
+  "email": "justin.kelley916@outlook.com",
+  "phone": "",
+  "location": "Texas City, TX",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "Royal Legal Solutions",
+      "location": "",
+      "start_date": "2021",
+      "end_date": "Present"
+    },
+    {
+      "company": "Cargo Express Freight",
+      "location": "",
+      "start_date": "2018",
+      "end_date": "2021"
+    },
+    {
+      "company": "Train Up",
+      "location": "",
+      "start_date": "2016",
+      "end_date": "2018"
+    },
+    {
+      "company": "Stripe",
+      "location": "",
+      "start_date": "2013",
+      "end_date": "2016"
+    },
+    {
+      "company": "Comcast",
+      "location": "",
+      "start_date": "2013",
+      "end_date": "2013"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Master's Degree in Computer Science",
+      "school": "ITT Technical Institute",
+      "start_year": "2011",
+      "end_year": "2013"
+    },
+    {
+      "degree": "Bachelor's Degree in Computer Science",
+      "school": "ITT Technical Institute",
+      "start_year": "2011",
+      "end_year": "2007"
+    }
+  ]
+}

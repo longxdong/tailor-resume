@@ -1,0 +1,44 @@
+{
+  "name": "Keith Gardner",
+  "email": "keith.gardner12@outlook.com",
+  "phone": "",
+  "location": "Sparta, NJ",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "Apple",
+      "location": "",
+      "start_date": "Oct 2015",
+      "end_date": "Present"
+    },
+    {
+      "company": "ControlTech",
+      "location": "",
+      "start_date": "May 2013",
+      "end_date": "Oct 2015"
+    },
+    {
+      "company": "Zebra Imaging Inc.",
+      "location": "",
+      "start_date": "Nov 2010",
+      "end_date": "May 2013"
+    },
+    {
+      "company": "Texas Systems Group",
+      "location": "",
+      "start_date": "May 2008",
+      "end_date": "Nov 2010"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree":"Bachelor of Science in Computer Engineering",
+      "school":"Cedarville University",
+      "start_year": "2004",
+      "end_year": "2008"
+    }
+  ]
+}

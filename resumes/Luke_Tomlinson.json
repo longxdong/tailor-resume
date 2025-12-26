@@ -1,0 +1,39 @@
+{
+  "name": "Luke Tomlinson",
+  "email": "luke.tomlinson16@outlook.com",
+  "phone": "",
+  "location": "Durham, NC",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "GitHub",
+      "location": "",
+      "start_date": "Apr 2021",
+      "end_date": "Present"
+    },
+    {
+      "company": "WillowTree",
+      "location": "",
+      "start_date": "Jul 2019",
+      "end_date": "Apr 2021"
+    },
+    {
+      "company": "WillowTree",
+      "location": "",
+      "start_date": "Jun 2016",
+      "end_date": "Jul 2019"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor's degree in Computer Engineering",
+      "school": "Cedarville University",
+      "start_year": "2012",
+      "end_year": "2016",
+      "grade": "3.92"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Matthew Mullins",
+  "email": "matthew911219@outlook.com",
+  "phone": "+1 (409) 797 6690",
+  "location": "1225 10TH ST N #703 TEXAS CITY TX 77590",
+  "linkedin": "",
+  "website": "",
+  
+  "experience": [
+    {
+      "company": "Kiggla",
+      "location": "",
+      "start_date": "Jun 2023",
+      "end_date": "Present"
+    },
+    {
+      "company": "Snapsheet.Inc",
+      "location": "",
+      "start_date": "Feb 2020",
+      "end_date": "May 2023"
+    },
+    {
+      "company": "Arbisoft",
+      "location": "",
+      "start_date": "Jul 2017",
+      "end_date": "Feb 2020"
+    },
+    {
+      "company": "Plego Technologies",
+      "location": "",
+      "start_date": "Nov 2014",
+      "end_date": "May 2017"
+    }
+  ],
+  
+  "education": [
+    {
+      "degree": "Bachelor's Degree - Computer Science",
+      "school": "ITT Technical Institute",
+      "start_year": "2010",
+      "end_year": "2014"
+    }
+  ]
+}

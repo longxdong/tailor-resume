@@ -1,0 +1,53 @@
+{
+  "name": "Christopher Johnson",
+  "email": "christopher.johnson.work@outlook.com",
+  "title": "Senior AI/ML Engineer",
+  "location": "Victoria, TX",
+  "linkedin": "",
+  "education": [
+    {
+      "degree": "Master's degree in Computer Science",
+      "school": "Northeastern University",
+      "start_year": "2014",
+      "end_year": "2015"
+    },
+    {
+      "degree": "Bachelor's degree in Computer Science",
+      "school": "Northeastern University",
+      "start_year": "2010",
+      "end_year": "2014"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Royal Legal Solutions",
+      "start_date": "Jan 2023",
+      "end_date": "Present",
+      "location": ""
+    },
+    {
+      "company": "PuzzleHR",
+      "start_date": "Jun 2020",
+      "end_date": "Dec 2022",
+      "location": ""
+    },
+    {
+      "company": "Train Up",
+      "start_date": "Jul 2018",
+      "end_date": "May 2020",
+      "location": ""
+    },
+    {
+      "company": "Snapsheet.Inc",
+      "start_date": "Nov 2016",
+      "end_date": "Jun 2018",
+      "location": ""
+    },
+    {
+      "company": "Arbisoft",
+      "start_date": "Nov 2015",
+      "end_date": "Nov 2016",
+      "location": ""
+    }
+  ]
+}
