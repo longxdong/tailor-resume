@@ -160,15 +160,19 @@ Analyze JD "About Us" section for **10-15 domain/compliance keywords** specific 
 ---
 
 ### **2. TITLE**
-- Use EXACT job title from JD
-- Examples: "Senior Data Scientist", "Senior Full Stack Engineer", "DevOps Engineer"
+- Extract the core role from the JD but **rephrase naturally** for a resume
+- Remove HR formatting: dashes, roman numerals (I/II/III), team names, parentheticals
+- "Senior Software Engineer - Back End" → "Senior Backend Engineer"
+- "Software Engineer II (Platform)" → "Software Engineer"
+- "Sr. Data Scientist - ML/AI Team" → "Senior Data Scientist"
+- Keep it concise: 2-4 words maximum
 
 ---
 
 ### **3. SUMMARY** (5-6 lines, 8-12 JD keywords + 3-5 domain keywords)
 
 **Structure:**
-- **Line 1:** [JD Title] with ${yearsOfExperience}+ years in [domain from JD] across startup and enterprise environments
+- **Line 1:** [Natural title from step 2] with ${yearsOfExperience}+ years in [domain from JD] across startup and enterprise environments
 - **Line 2:** Expertise in [domain keyword] + [3-4 EXACT JD technologies WITH versions if specified]
 - **Line 3:** Proven track record in [domain keyword] + [key achievement with metric: %, $, time, scale]
 - **Line 4:** Proficient in [3-4 more JD technologies/methodologies]
