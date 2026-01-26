@@ -1,0 +1,82 @@
+{
+  "name": "Robert VanCuren",
+  "email": "robert.vancuren12@outlook.com",
+  "phone": "+1 (737) 244 0929",
+  "location": "Cleveland, Ohio, United States",
+  "linkedin": "https://www.linkedin.com/in/robertvancuren",
+  "website": null,
+
+  "experience": [
+    {
+      "company": "BoxCast",
+      "title": "Senior Software Engineer",
+      "location": "Cleveland, Ohio, United States",
+      "start_date": "Jan 2023",
+      "end_date": "Present"
+    },
+    {
+      "company": "American Greetings",
+      "title": "Principal Software Engineer",
+      "location": "Cleveland, Ohio, United States",
+      "start_date": "Nov 2021",
+      "end_date": "Nov 2022"
+    },
+    {
+      "company": "Autosoft DMS",
+      "title": "Principal Software Engineer",
+      "location": null,
+      "start_date": "May 2020",
+      "end_date": "Oct 2021"
+    },
+    {
+      "company": "Asurint",
+      "title": "Principal Software Engineer",
+      "location": "Cleveland/Akron, Ohio Area",
+      "start_date": "Sep 2019",
+      "end_date": "May 2020"
+    },
+    {
+      "company": "Asurint",
+      "title": "Senior Software Engineer",
+      "location": "Cleveland/Akron, Ohio Area",
+      "start_date": "Aug 2018",
+      "end_date": "Sep 2019"
+    },
+    {
+      "company": "American Greetings",
+      "title": "Senior Software Engineer",
+      "location": null,
+      "start_date": "May 2015",
+      "end_date": "Aug 2018"
+    },
+    {
+      "company": "American Greetings",
+      "title": "Application / Flash / Web Developer",
+      "location": null,
+      "start_date": "May 2009",
+      "end_date": "May 2015"
+    },
+    {
+      "company": "RPM International Inc.",
+      "title": "Intern",
+      "location": null,
+      "start_date": "May 2005",
+      "end_date": "May 2006"
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "Kent State University",
+      "start_year": "2007",
+      "end_year": "2009"
+    },
+    {
+      "degree": "E-Business Management",
+      "school": "Cuyahoga Community College",
+      "start_year": "2003",
+      "end_year": "2006"
+    }
+  ]
+}
