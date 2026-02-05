@@ -1,41 +1,41 @@
 {
   "name": "Matthew Mullins",
   "email": "matthew911219@outlook.com",
-  "phone": "+1 (409) 797 6690",
+  "phone": "+1 (346) 521 3378",
   "location": "1225 10TH ST N #703 TEXAS CITY TX 77590",
   "linkedin": "",
   "website": "",
   
   "experience": [
     {
-      "company": "Kiggla",
+      "company": "BrightOps",
       "location": "",
       "start_date": "Jun 2023",
       "end_date": "Present"
     },
     {
-      "company": "Snapsheet.Inc",
+      "company": "Hexagon",
       "location": "",
-      "start_date": "Feb 2020",
+      "start_date": "Feb 2017",
       "end_date": "May 2023"
     },
     {
       "company": "Arbisoft",
       "location": "",
-      "start_date": "Jul 2017",
-      "end_date": "Feb 2020"
+      "start_date": "Jul 2015",
+      "end_date": "Feb 2027"
     },
     {
       "company": "Plego Technologies",
       "location": "",
       "start_date": "Nov 2014",
-      "end_date": "May 2017"
+      "end_date": "May 2015"
     }
   ],
   
   "education": [
     {
-      "degree": "Bachelor's Degree - Computer Science",
+      "degree": "Bachelor's Degree in Software Applications Development",
       "school": "ITT Technical Institute",
       "start_year": "2010",
       "end_year": "2014"
